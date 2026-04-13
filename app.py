@@ -156,7 +156,7 @@ st.set_page_config(page_title="Deepfake Detector", layout="centered")
 # -------- HEADER --------
 st.markdown("""
 <h1 style='text-align: center; color: #4CAF50;'>
-🧠 AI Deepfake Image Detector
+🧠 AI-Generated Image Detector
 </h1>
 <p style='text-align: center; font-size:18px;'>
 Upload an image and detect whether it is <b>REAL</b> or <b>AI-GENERATED</b>
