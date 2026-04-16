@@ -189,9 +189,7 @@ if uploaded:
             st.success(f"✅ REAL IMAGE")
 
         # -------- CONFIDENCE BAR --------
-        st.markdown("### 📊 Confidence Score")
-        st.progress(int(score * 100))
-        st.write(f"**Confidence:** {score*100:.2f}%")
+
 
         st.markdown("---")
 
